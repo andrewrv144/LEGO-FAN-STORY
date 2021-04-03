@@ -1,0 +1,41 @@
+header {
+    background-color:DarkCyan;
+    border: 5px inset #0E53A7 ;
+}
+
+.history {
+    font-family:sans-serif;
+    color: red;
+}
+
+body {
+    font-family:sans-serif;
+    text-align:center;
+    background-color:PowderBlue;
+}
+
+.lego { 
+    border:5px solid blue;
+    border-collapse: collapse;
+}
+
+table {
+    border-collapse: collapse;
+    border:5px solid blue; 
+    font-size: 20px;
+}
+
+.LEGO {
+    border-collapse: collapse; 
+    border:5px solid blue
+}
+
+footer {
+    background-color:black;
+}
+
+footer a{
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
+}
