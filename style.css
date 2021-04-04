@@ -20,5 +20,11 @@ header a {
 }
 
 footer {
-    background-color:rgb(255, 255, 255);
+    ackground-color:rgb(255, 255, 255);
+}
+
+footer a{
+    font-size: 20px;
+    color:black;
+    text-decoration: none;
 }
