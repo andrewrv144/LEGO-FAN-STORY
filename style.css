@@ -3,19 +3,10 @@ header {
     border: 5px inset #0E53A7 ;
 }
 
-.history {
-    font-family:sans-serif;
-    color: red;
-}
-
 body {
     font-family:sans-serif;
     text-align:center;
     background-color:PowderBlue;
-}
-
-header a {
-    text-align: 50px;
     text-decoration: none;
 }
 
