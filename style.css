@@ -14,31 +14,6 @@ body {
     background-color:PowderBlue;
 }
 
-table {
-    border:5px solid blue; 
-    font-size: 20px;
-    border-radius: 20px;
-}
-
-.LEGO {
-    border-radius: 10px;
-    border:5px solid blue;
-}
-
-footer {
-    background-color:black;
-}
-
-footer a{
-    font-size: 20px;
-    color:white;
-    text-decoration: none;
-}
-
-tr {
-    border-collapse: collapse;
-}
-
 header a {
     text-align: 50px;
     text-decoration: none;
