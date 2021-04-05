@@ -1,16 +1,17 @@
 header {
+    text-align: center;
     background-color:rgb(255, 255, 255);
     border: 5px inset #0E53A7 ;
 }
 
 body {
     font-family:sans-serif;
-    text-align:center;
     background-color:PowderBlue;
     text-decoration: none;
 }
 
 footer {
+    text-align: center;
     background-color:rgb(255, 255, 255);
 }
 
@@ -18,4 +19,17 @@ footer a{
     font-size: 20px;
     color:black;
     text-decoration: none;
+}
+
+.Кирк {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.gumbull {
+    text-align: center;
+}
+
+.darwin {
+    margin-left: 50px;
 }
