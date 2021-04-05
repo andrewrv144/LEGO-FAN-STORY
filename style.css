@@ -33,3 +33,8 @@ footer a{
 .darwin {
     margin-left: 50px;
 }
+
+.ice {
+    display: flex;
+    justify-content: flex-start;
+}
