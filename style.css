@@ -22,6 +22,7 @@ footer a{
 }
 
 .Кирк {
+    padding-top: 20px;
     display: flex;
     justify-content: flex-start;
 }
