@@ -39,3 +39,31 @@ footer a{
     display: flex;
     justify-content: flex-start;
 }
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: space-evenly;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fc{
+    background-color: blue;
+    color: white;
+}
+
+nav a:hover {
+    background-color: #b44f1e;
+    color: black;
+}
+
+nav a:focus{
+    background-color: palegreen;
+}
