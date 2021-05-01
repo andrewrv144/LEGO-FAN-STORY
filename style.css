@@ -43,7 +43,6 @@ footer a{
 nav a {
     text-decoration: none;
     font-size: 20px;
-    color: navy;
     margin-top: 15px;
     margin-bottom: 15px;
     justify-content: space-evenly;
@@ -52,6 +51,7 @@ nav a {
 nav {
     display: flex;
     justify-content: space-evenly;
+    font-size: 10px;
 }
 
 .fc{
@@ -60,10 +60,17 @@ nav {
 }
 
 nav a:hover {
-    background-color: #b44f1e;
-    color: black;
+    text-decoration: underline;
 }
 
 nav a:focus{
     background-color: palegreen;
+}
+
+header {
+    background-color: #ffc42e;
+}
+
+.c {
+    color: black;
 }
