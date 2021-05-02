@@ -36,9 +36,12 @@ nav a {
 }
 
 nav {
-    display: flex;
+    nav a {
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     justify-content: space-evenly;
-    font-size: 10px;
 }
 
 .fc{
