@@ -46,6 +46,7 @@ nav {
 }
 
 nav a:hover {
+    background: linear-gradient(to top left ,#e7e6e2, #f5e1bf, #d4a752);
     text-decoration: underline;
 }
 
